@@ -1,0 +1,14 @@
+{
+  "name": "cryptorisk",
+  "version": "1.0.0",
+  "description": "Live signals and rug-checks for crypto and memecoins",
+  "scripts": {
+    "build": "python3 build.py"
+  },
+  "keywords": [],
+  "author": "Orlixx",
+  "license": "MIT",
+  "dependencies": {
+    "lightweight-charts": "^4.2.0"
+  }
+}
